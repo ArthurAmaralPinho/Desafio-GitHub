@@ -2,9 +2,9 @@
 
 
 
-<img src="./assets/Login-Page.PNG" alt="login-screen">
+<img src="./assets/Login-Page.PNG" width="250px" alt="login-screen">
 
-> Login screen of challenge CSS 2.
+> Tela de login do desafio CSS 2.
 
 ### Ajustes e melhorias
 
